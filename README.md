@@ -72,10 +72,3 @@ The program outputs information about service states to standard output/system l
 - No support for complex start/stop scenarios
 - No built-in file logging support
 
-## License
-
-[Specify your license here, for example MIT or Apache 2.0]
-
-## Contributing
-
-PRs and issues are welcome! Specify here how others can contribute to the project.
