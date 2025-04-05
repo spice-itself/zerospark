@@ -2,7 +2,7 @@
 
 ## Description
 
-ZigHeil is a simple initialization process (init system) written in the Zig programming language. It is designed to manage services in Linux systems, providing basic functionality:
+ZeroSpark is a simple initialization process (init system) written in the Zig programming language. It is designed to manage services in Linux systems, providing basic functionality:
 
 - Starting services at system boot
 - Monitoring the state of services
